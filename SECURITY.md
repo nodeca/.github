@@ -1,4 +1,1 @@
-To report a security vulnerability, please use the
-[Tidelift security contact](https://tidelift.com/security).
-Tidelift will coordinate the fix and disclosure.
-
+To securely report a vulnerability, please open an advisory on the affected GitHub repository. All repositories allow reporting vulnerabilities by clicking on the "New Issue" button.
